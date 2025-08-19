@@ -34,6 +34,5 @@ int main()
         contagemRainha++;
     } while (contagemRainha != 8);
     printf("Fim do movimento da rainha. \n");
-
     return 0;
 }
